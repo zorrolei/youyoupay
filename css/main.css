@@ -108,7 +108,7 @@ main > section {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: #006A98;
+	background: #f60;
 	
 	-webkit-transform: scaleX(0);
 	   -moz-transform: scaleX(0);
@@ -137,7 +137,7 @@ main > section {
 }
 
 .btn-effect:hover, .btn-effect:focus, .btn-effect:active {
-	color: #009EE3;
+	color: #fff;
 }
 .copyrights{
 	text-indent:-9999px;
